@@ -1,2 +1,2 @@
 # LabProject
-[![Build Status](https://travis-ci.org/akosoj/TechProject.svg?branch=master)](https://travis-ci.org/akosoj/TechProject)
+[![Build Status](https://travis-ci.org/Megadimon/TechProject.svg?branch=master)](https://travis-ci.org/Megadimon/TechProject)
